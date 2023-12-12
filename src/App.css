@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #35254e;
+  background: #092635;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,7 +25,7 @@ h1 {
 }
 
 .TodoWrapper {
-  background: #170b29;
+  background: #1B4242;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .todo-btn {
-  background: #b61515;
+  background: #5C8374;
   color: #fff;
   border: none;
   padding: 0.55rem;
@@ -63,7 +63,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #b61515;
+  background: #9EC8B9;
   color: #fff;
   padding: 0.75rem 1rem;
   border-radius: 5px;
